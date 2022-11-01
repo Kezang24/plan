@@ -15,5 +15,5 @@ CMD ["python3", "main.py", "--host","localhost", "--port", "5000"]
 # ADD . /app
 
 
-ENTRYPOINT [ "python3" ]
-CMD [ "main.py" ]
+# ENTRYPOINT [ "python3" ]
+# CMD [ "main.py" ]
